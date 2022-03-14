@@ -1,0 +1,457 @@
+[Tu respuesta: b
+Fue la opción: correcta
+La pregunta fue: Que se puede utilizar para dividir un String? 
+a)divide(). 
+b)substring(). 
+c)partition(). 
+d).separate()
+Con el código: 12]
+[Tu respuesta: c
+Fue la opción: incorrecta
+La pregunta fue: Se puede hacer casteo de long a short? 
+a)Si. 
+b)No. 
+c)No es obligatorio pero puedes.
+Con el código: 9]
+[Tu respuesta: c
+Fue la opción: correcta
+La pregunta fue: Se puede hacer casteo de float a double? 
+a)Si. 
+b)No. 
+c)No es obligatorio pero puedes.
+Con el código: 4]
+[Tu respuesta: c
+Fue la opción: correcta
+La pregunta fue: Que pasa si intentamos escribir en un archivo inexistente? 
+a)Rompe el programa. 
+b)No pasa nada. 
+c)Lo crea. 
+d)Lo crea pero salta error.
+Con el código: 29]
+[Tu respuesta: d
+Fue la opción: correcta
+La pregunta fue: length() en un String que nos da? 
+a)Los caracteres del String. 
+b)El codigo asscii del String. 
+c)No nos da nada. 
+d)La longitud del String.
+Con el código: 20]
+[Tu respuesta: d
+Fue la opción: correcta
+La pregunta fue: Como comparamos (por ejemplo en un if) dos Strings? 
+a)Con un ==. 
+b)Con un compareTo(). 
+c)No se puede. 
+d)Con equals()
+Con el código: 19]
+[Tu respuesta: c
+Fue la opción: correcta
+La pregunta fue: Que tipos de ficheros hemos dado? 
+a)Texto. 
+b)Bytes. 
+c)Texto y Bytes. 
+d)Texto y Numericos
+Con el código: 30]
+[Tu respuesta: c
+Fue la opción: correcta
+La pregunta fue: Se puede hacer casteo de int a double? 
+a)Si. 
+b)No. 
+c)No es obligatorio pero puedes.
+Con el código: 1]
+[Tu respuesta: b
+Fue la opción: correcta
+La pregunta fue: Que se puede utilizar para remplazar algun caracter por otro especificado? 
+a)substitute(). 
+b)replace(). 
+c)rerun(). 
+d).supersede()
+Con el código: 14]
+[Tu respuesta: c
+Fue la opción: correcta
+La pregunta fue: Se puede hacer casteo de byte a short? 
+a)Si. 
+b)No. 
+c)No es obligatorio pero puedes.
+Con el código: 10]
+[Tu respuesta: a
+Fue la opción: correcta
+La pregunta fue: Que viene en los archivos de Bytes serializado por defecto? 
+a)Datos primitivos + String. 
+b)Datos primitivos. 
+c)Los String. 
+d)Clases operadas por nosotros.
+Con el código: 25]
+[Tu respuesta: a
+Fue la opción: correcta
+La pregunta fue: Se puede hacer casteo de short a byte? 
+a)Si. 
+b)No. 
+c)No es obligatorio pero puedes. 
+Con el código: 3]
+[Tu respuesta: c
+Fue la opción: correcta
+La pregunta fue: Cuantos pasos tenemos que hacer para tratar un Fichero? 
+a)1. 
+b)2. 
+c)3. 
+d)4.
+Con el código: 27]
+[Tu respuesta: a
+Fue la opción: correcta
+La pregunta fue: Se puede hacer casteo de double a float? 
+a)Si. 
+b)No. 
+c)No es obligatorio pero puedes. 
+Con el código: 5]
+[Tu respuesta: n
+Fue la opción: incorrecta
+La pregunta fue: Es importante cerrar el flujo de un Fichero? 
+a)Si para volver al último lugar que trataste. 
+b)No porque el archivo seguira igual. 
+c)Si porque luego no se puede abrir. 
+d)No porque se cierra solo. 
+Con el código: 22]
+[Tu respuesta: d
+Fue la opción: correcta
+La pregunta fue: Existe el split()? 
+a)Existe en StringBuilder. 
+b)No en String. 
+c)No existe. 
+d)Si en String.
+Con el código: 18]
+[Tu respuesta: b
+Fue la opción: incorrecta
+La pregunta fue: Se puede hacer casteo de long a int? 
+a)Si. 
+b)No. 
+c)No es obligatorio pero puedes. 
+Con el código: 7]
+[Tu respuesta: d
+Fue la opción: correcta
+La pregunta fue: Cual es la forma incorrecta de pasar un string a mayusculas? 
+a)toupperCase(). 
+b)touppercase(). 
+c)ToUpperCase(). 
+d).Ninguna es correcta
+Con el código: 17]
+[Tu respuesta: b
+Fue la opción: correcta
+La pregunta fue: Para conseguir un caracter de un String? 
+a)charIn(). 
+b)charAt(). 
+c)charOut(). 
+d).charPatt()
+Con el código: 15]
+[Tu respuesta: c
+Fue la opción: incorrecta
+La pregunta fue: Como se suelen denominar las interfaces? 
+a)Un verbo sin mas. 
+b)No importa como se llama. 
+c)Una i y el nombre seguido acabado en -able. 
+d)Ninguna es correcta.
+Con el código: 50]
+[Tu respuesta: b
+Fue la opción: incorrecta
+La pregunta fue: Que estructuras de colecciones conocemos? 
+a)FIFO y FITO. 
+b)FIFO y FILO. 
+c)FICO y FIFO. 
+d)FIFO y FIMO
+Con el código: 54]
+[Tu respuesta: c
+Fue la opción: incorrecta
+La pregunta fue: El list... 
+a)No pueden repetirse valores. 
+b)Es el que menos hemos utilizado en clase. 
+c). A y B son ciertas 
+d)Pueden repetirse valores.
+Con el código: 59]
+[Tu respuesta: d
+Fue la opción: correcta
+La pregunta fue: length() en un String que nos da? 
+a)Los caracteres del String. 
+b)El codigo asscii del String. 
+c)No nos da nada. 
+d)La longitud del String.
+Con el código: 20]
+[Tu respuesta: a
+Fue la opción: incorrecta
+La pregunta fue: Formas  de dar valores a un Array: 
+a)Todas son correctas. 
+b)for. 
+c)foreach. 
+d)Valor por valor.
+Con el código: 64]
+[Tu respuesta: c
+Fue la opción: correcta
+La pregunta fue: Se puede hacer casteo de float a double? 
+a)Si. 
+b)No. 
+c)No es obligatorio pero puedes.
+Con el código: 4]
+[Tu respuesta: b
+Fue la opción: correcta
+La pregunta fue: Para conseguir un caracter de un String? 
+a)charIn(). 
+b)charAt(). 
+c)charOut(). 
+d).charPatt()
+Con el código: 15]
+[Tu respuesta: c
+Fue la opción: incorrecta
+La pregunta fue: Se puede hacer casteo de short a byte? 
+a)Si. 
+b)No. 
+c)No es obligatorio pero puedes. 
+Con el código: 3]
+[Tu respuesta: b
+Fue la opción: correcta
+La pregunta fue: Para conseguir un caracter de un String? 
+a)charIn(). 
+b)charAt(). 
+c)charOut(). 
+d).charPatt()
+Con el código: 15]
+[Tu respuesta: a
+Fue la opción: correcta
+La pregunta fue: Como se llama la comunicación entre el origen y el destino de un Fichero? 
+a)Flujo o Stream. 
+b)Flujo. 
+c)No tiene nombre 
+d)Stream.
+Con el código: 21]
+[Tu respuesta: f
+Fue la opción: incorrecta
+La pregunta fue: Cual es la forma incorrecta de pasar un string a minusculas? 
+a)tolowerCase(). 
+b)tolowercase(). 
+c)ToLowerCase(). 
+d).Ninguna es correcta
+Con el código: 16]
+[Tu respuesta: a
+Fue la opción: correcta
+La pregunta fue: Se puede hacer casteo de double a float? 
+a)Si. 
+b)No. 
+c)No es obligatorio pero puedes. 
+Con el código: 5]
+[Tu respuesta: c
+Fue la opción: incorrecta
+La pregunta fue: Se puede hacer casteo de short a byte? 
+a)Si. 
+b)No. 
+c)No es obligatorio pero puedes. 
+Con el código: 3]
+[Tu respuesta: a
+Fue la opción: incorrecta
+La pregunta fue: Se puede hacer casteo de int a long? 
+a)Si. 
+b)No. 
+c)No es obligatorio pero puedes. 
+Con el código: 6]
+[Tu respuesta: c
+Fue la opción: incorrecta
+La pregunta fue: Se puede hacer casteo de int a double? 
+a)Si. 
+b)No. 
+c)No es obligatorio pero puedes.
+Con el código: 2]
+[Tu respuesta: d
+Fue la opción: correcta
+La pregunta fue: Cual es la forma incorrecta de pasar un string a mayusculas? 
+a)toupperCase(). 
+b)touppercase(). 
+c)ToUpperCase(). 
+d).Ninguna es correcta
+Con el código: 17]
+[Tu respuesta: d
+Fue la opción: correcta
+La pregunta fue: Cual es la forma incorrecta de pasar un string a minusculas? 
+a)tolowerCase(). 
+b)tolowercase(). 
+c)ToLowerCase(). 
+d).Ninguna es correcta
+Con el código: 16]
+[Tu respuesta: b
+Fue la opción: incorrecta
+La pregunta fue: Se puede hacer casteo de short a byte? 
+a)Si. 
+b)No. 
+c)No es obligatorio pero puedes. 
+Con el código: 3]
+[Tu respuesta: b
+Fue la opción: correcta
+La pregunta fue: Para conseguir un caracter de un String? 
+a)charIn(). 
+b)charAt(). 
+c)charOut(). 
+d).charPatt()
+Con el código: 15]
+[Tu respuesta: b
+Fue la opción: correcta
+La pregunta fue: Que se puede utilizar para concatenar Strings? 
+a)concatenate(). 
+b)C y D son correctas(). 
+c)+,texto,+. 
+d).concat()
+Con el código: 13]
+[Tu respuesta: a
+Fue la opción: correcta
+La pregunta fue: Se puede hacer casteo de int a double? 
+a)Si. 
+b)No. 
+c)No es obligatorio pero puedes.
+Con el código: 2]
+[Tu respuesta: a
+Fue la opción: correcta
+La pregunta fue: Se puede hacer casteo de long a short? 
+a)Si. 
+b)No. 
+c)No es obligatorio pero puedes.
+Con el código: 9]
+[Tu respuesta: a
+Fue la opción: correcta
+La pregunta fue: Como se llama la comunicación entre el origen y el destino de un Fichero? 
+a)Flujo o Stream. 
+b)Flujo. 
+c)No tiene nombre 
+d)Stream.
+Con el código: 21]
+[Tu respuesta: 
+Fue la opción: incorrecta
+La pregunta fue: Que se puede utilizar para remplazar algun caracter por otro especificado? 
+a)substitute(). 
+b)replace(). 
+c)rerun(). 
+d).supersede()
+Con el código: 14]
+[Tu respuesta: a
+Fue la opción: correcta
+La pregunta fue: Se puede hacer casteo de int a double? 
+a)Si. 
+b)No. 
+c)No es obligatorio pero puedes.
+Con el código: 2]
+[Tu respuesta: d
+Fue la opción: correcta
+La pregunta fue: Cual es la forma incorrecta de pasar un string a mayusculas? 
+a)toupperCase(). 
+b)touppercase(). 
+c)ToUpperCase(). 
+d).Ninguna es correcta
+Con el código: 17]
+[Tu respuesta: a
+Fue la opción: correcta
+La pregunta fue: Que viene en los archivos de Bytes serializado por defecto? 
+a)Datos primitivos + String. 
+b)Datos primitivos. 
+c)Los String. 
+d)Clases operadas por nosotros.
+Con el código: 25]
+[Tu respuesta: b
+Fue la opción: correcta
+La pregunta fue: Que se puede utilizar para concatenar Strings? 
+a)concatenate(). 
+b)C y D son correctas(). 
+c)+,texto,+. 
+d).concat()
+Con el código: 13]
+[Tu respuesta: b
+Fue la opción: correcta
+La pregunta fue: Para conseguir un caracter de un String? 
+a)charIn(). 
+b)charAt(). 
+c)charOut(). 
+d).charPatt()
+Con el código: 15]
+[Tu respuesta: a
+Fue la opción: incorrecta
+La pregunta fue: Se puede hacer casteo de short a long? 
+a)Si. 
+b)No. 
+c)No es obligatorio pero puedes. 
+Con el código: 8]
+[Tu respuesta: a
+Fue la opción: correcta
+La pregunta fue: Se puede hacer casteo de int a double? 
+a)Si. 
+b)No. 
+c)No es obligatorio pero puedes.
+Con el código: 2]
+[Tu respuesta: a
+Fue la opción: correcta
+La pregunta fue: Formato de un fichero de Bytes? 
+a).dat. 
+b).txt. 
+c).sql. 
+d).doc. 
+Con el código: 23]
+[Tu respuesta: c
+Fue la opción: correcta
+La pregunta fue: Se puede hacer casteo de int a long? 
+a)Si. 
+b)No. 
+c)No es obligatorio pero puedes. 
+Con el código: 6]
+[Tu respuesta: b
+Fue la opción: incorrecta
+La pregunta fue: Se trata con la misma clase la escritura y la lectura? 
+a)Si. 
+b)No es obligatorio. 
+c)No.
+Con el código: 28]
+[Tu respuesta: b
+Fue la opción: correcta
+La pregunta fue: Para conseguir un caracter de un String? 
+a)charIn(). 
+b)charAt(). 
+c)charOut(). 
+d).charPatt()
+Con el código: 15]
+[Tu respuesta: b
+Fue la opción: correcta
+La pregunta fue: Que se puede utilizar para invertir un String? 
+a)contrary(). 
+b)reverse(). 
+c)opposite(). 
+d).counter()
+Con el código: 11]
+[Tu respuesta: b
+Fue la opción: incorrecta
+La pregunta fue: Que viene en los archivos de Bytes serializado por defecto? 
+a)Datos primitivos + String. 
+b)Datos primitivos. 
+c)Los String. 
+d)Clases operadas por nosotros.
+Con el código: 25]
+[Tu respuesta: b
+Fue la opción: correcta
+La pregunta fue: Que se puede utilizar para dividir un String? 
+a)divide(). 
+b)substring(). 
+c)partition(). 
+d).separate()
+Con el código: 12]
+[Tu respuesta: d
+Fue la opción: correcta
+La pregunta fue: length() en un String que nos da? 
+a)Los caracteres del String. 
+b)El codigo asscii del String. 
+c)No nos da nada. 
+d)La longitud del String.
+Con el código: 20]
+[Tu respuesta: a
+Fue la opción: correcta
+La pregunta fue: Se puede hacer casteo de long a short? 
+a)Si. 
+b)No. 
+c)No es obligatorio pero puedes.
+Con el código: 9]
+[Tu respuesta: a
+Fue la opción: correcta
+La pregunta fue: Se puede hacer casteo de int a double? 
+a)Si. 
+b)No. 
+c)No es obligatorio pero puedes.
+Con el código: 2]
